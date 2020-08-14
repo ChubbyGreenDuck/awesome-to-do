@@ -1,0 +1,5 @@
+C:\dev\awesome-to-do\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\dev\awesome-to-do\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\dev\awesome-to-do\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\dev\awesome-to-do\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\dev\awesome-to-do\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\awesome-to-do\\awesome-to-do-api\\awesome-to-do-api.csproj": {}
+    "C:\\dev\\awesome-to-do\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\dev\\awesome-to-do\\awesome-to-do-api\\awesome-to-do-api.csproj": {
+    "C:\\dev\\awesome-to-do\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\awesome-to-do\\awesome-to-do-api\\awesome-to-do-api.csproj",
-        "projectName": "awesome-to-do-api",
-        "projectPath": "C:\\dev\\awesome-to-do\\awesome-to-do-api\\awesome-to-do-api.csproj",
+        "projectUniqueName": "C:\\dev\\awesome-to-do\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\dev\\awesome-to-do\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\awesome-to-do\\awesome-to-do-api\\obj\\",
+        "outputPath": "C:\\dev\\awesome-to-do\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,10 +41,6 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.6, )"
             }
           },
           "imports": [
@@ -58,9 +54,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

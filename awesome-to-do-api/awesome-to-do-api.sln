@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "awesome-to-do-api", "awesome-to-do-api.csproj", "{9399DB27-0B6E-41F8-AF99-A40EE5DFA330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{154A06CF-DD0D-4B45-AACF-CEA8798E3340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9399DB27-0B6E-41F8-AF99-A40EE5DFA330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9399DB27-0B6E-41F8-AF99-A40EE5DFA330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9399DB27-0B6E-41F8-AF99-A40EE5DFA330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9399DB27-0B6E-41F8-AF99-A40EE5DFA330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154A06CF-DD0D-4B45-AACF-CEA8798E3340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154A06CF-DD0D-4B45-AACF-CEA8798E3340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154A06CF-DD0D-4B45-AACF-CEA8798E3340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154A06CF-DD0D-4B45-AACF-CEA8798E3340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA6CF83-A8DF-47B7-87FD-37C9A591C188}
+	EndGlobalSection
+EndGlobal
